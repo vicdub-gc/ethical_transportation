@@ -1,0 +1,9 @@
+Should be installed in the environment your are runnning the files from, the following :
+numpy
+pandas
+seaborn
+yellowbrick
+scikit-learn
+chart-studio
+plotly
+matplotlib
